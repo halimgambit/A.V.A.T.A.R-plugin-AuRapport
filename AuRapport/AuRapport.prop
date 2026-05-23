@@ -1,0 +1,12 @@
+{
+	"modules": { 
+		"AuRapport": {
+			"version": "1.0",
+			"name": "au-rapport",
+			"rules": {
+				"rapport": ["reporting","report"]
+			}
+		}
+	}
+}
+			

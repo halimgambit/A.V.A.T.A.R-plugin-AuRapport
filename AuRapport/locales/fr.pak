@@ -1,0 +1,6 @@
+{
+  "speech": {
+    "pluginCount": "Il y a $$ plugins installés",
+    "errorRead": "Erreur lors de la lecture des plugins."
+  }
+}
